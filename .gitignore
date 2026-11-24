@@ -18,3 +18,5 @@ experiments.bat
 # Тимчасові файли Jupyter і Excel
 .ipynb_checkpoints/
 ~$*
+
+examples and method/
