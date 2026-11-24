@@ -1,0 +1,20 @@
+# Службові файли Visual Studio
+.vs/
+*.user
+
+# Збірки
+x64/
+[Dd]ebug/
+[Rr]elease/
+
+# Бібліотеки, які відновлюються автоматично (vcpkg.json, packages.config)
+vcpkg_installed/
+packages/
+
+# Результати замірів і скрипт запуску
+results/
+experiments.bat
+
+# Тимчасові файли Jupyter і Excel
+.ipynb_checkpoints/
+~$*
